@@ -1,0 +1,8 @@
+{
+  "name": "Verdant Conservatory",
+  "description": "Interactive 3D glass terrarium with procedural botanical flora, dynamic day/night lighting, real-time weather simulation, and Google Forms care logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
